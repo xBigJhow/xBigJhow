@@ -35,7 +35,7 @@
   <a href="https://www.kaggle.com/jonatasbueno" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
   <a href="https://www.github.com/xBigJhow" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
     
-  ![Snake animation](https://github.com/xBigJhow/xBigJhow/blob/output/github-contribution-grid-snake.svg)
+
  
  
 </div>
